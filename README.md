@@ -1,4 +1,4 @@
-# yourpods
+# snifflein
 
 ## Project setup
 ```
